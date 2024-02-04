@@ -21,3 +21,4 @@ fields:
 - { label: 'Publish Date', name: 'date', widget: 'datetime'}
 - { label: 'Description', name: 'description', widget: 'string'}
 - { label: 'Body', name: 'body', widget: 'markdown'}
+- { label: 'Title1', name: 'title1', widget: 'string'}
