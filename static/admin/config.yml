@@ -1,5 +1,5 @@
 backend:
-  - name: test-repo
+- name: test-repo
 + name: github
 +repo: Jakubba/test-repo
 
@@ -7,7 +7,7 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "blog"
+- name: "blog"
 label: 'Blog'
 folder: 'content/blog'
 slug: 'index'
